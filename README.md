@@ -1,1 +1,1 @@
-This is an educational project using JavaScript / AJAX(axios) / webpack / HTML / CSS.
+This is an educational project using JavaScript / webpack / HTML / CSS / AJAX(axios).
